@@ -1,0 +1,15 @@
+{
+    "name": "david64423/poo",
+    "autoload": {
+        "psr-4": {
+            "David64423\\Poo\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "David",
+            "email": "david16115@outlook.com"
+        }
+    ],
+    "require": {}
+}

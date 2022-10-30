@@ -1,0 +1,33 @@
+¿Qué es un objeto?:
+            Cualquier elemento o componente que se tiene en una aplicación se le puede considerar un objeto.Por 
+        ejemplo, una sesion podria ser un objeto, una solicitud de httml, un input:text puede ser un objeto,
+        un string, etc. Casi cualquier cosa puede ser considerado objeto y este objeto va a tener las 
+        siguientes caractetisticas. Tendra tanto propiedades como metodos.
+            
+            
+            
+            Propiedades: También, son llamados miembros, son característica únicas del objeto.Por ejemplo,
+        un post en instagram puede tener el número de likes, un numero de mensajes, tiene asignado un 
+        usuario, el cual debe tener seguramente un id que lo reconozca,etc. Todas estas caracteristicas, son
+        propiedades de los objetos, con esto explicamos un concepto basico de la poo llamado "ENCAPSULACIÓN".
+            
+            
+            
+            ENCAPSULACION: Se refiere a la creación de objetos con sus propiedades y sus métodos para que
+        solamente pueda ser llamado bajo las instancias de ese método.
+
+
+
+        ALCANCES:
+            Cuando nosotros declaramos metodos o propiedades tenemos 3 tipos de alcances que podemos 
+        especificar para cada uno de ellos.
+
+            public: Esto quiere decir que cuando yo creo una nueva propiedad que usa public dentro de un objeto,
+            puedo acceder a esa propiedad y al metodo fuera de la declaración del objeto.
+
+            private: Solo son accesibles dentro de la misma clase y no cuando creamos un objeto o buscamos llamar
+            a alguna de sus propiedades o métodos.
+
+            También existe el alcance PROTECTED.
+
+            
