@@ -30,4 +30,14 @@
 
             También existe el alcance PROTECTED.
 
+        HERENCIA:
+            Cuando hacemos una clase que herede las propiedades de otra clase como padre a hijo.
+
+            ALCANCE(PROTECTED):
+                Era necesario explicar el tema de herencia antes de explicar este último alcance. Cuando nosotros
+                hacemos una clase heredando otra clase, la cual, tiene metodos de alcance privado, estos metodos o
+                propiedades no se heredaran ya que indican que dicho método solo sea utilizado en esa clase y ningún
+                otro lugar. Por esto, existe el alcance "protected" el cual hace lo mismo que "private" pero la diferen-
+                cia es que estos metodos o propiedades si se pueden heredar por otra clase hija.
+
             
