@@ -1,0 +1,1 @@
+Este trabajo es un curso (sin ningún tipo de certificación) acerca del mundo del php orientado a objetos. En el curso llegue a ver las bases para entender la POO y usarla con otros lenguajes de programación.  
